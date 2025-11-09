@@ -14,7 +14,7 @@ keywords = ["Kyoto travel", "Tokyo travel"]
 pytrends.build_payload(
     kw_list=keywords,
     cat=0,
-    timeframe='2015-01-01 2025-11-01',
+    timeframe='2005-01-01 2025-11-01',
     geo='JP',
     gprop=''
 )
