@@ -1,4 +1,1 @@
-pandas
-numpy
-matplotlib
-pytrends
+pandas\nnumpy\nmatplotlib\npytrends\nrequests
