@@ -1,0 +1,13 @@
+# Environment
+.venv/
+__pycache__/
+
+# Raw data
+data/jnto/monthly_auto/
+data/trends/
+
+# Jupyter autosave
+*.ipynb_checkpoints/
+
+# System
+.DS_Store
