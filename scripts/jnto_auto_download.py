@@ -1,6 +1,5 @@
 """
 JNTO データ自動ダウンロードスクリプト (requests版)
-申請やSeleniumを使わず、Tableau Publicから直接CSVを取得。
 """
 
 import time
